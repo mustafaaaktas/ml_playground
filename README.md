@@ -1,20 +1,38 @@
-# ML Playground
+# ML Playground ✨
 
-Welcome to my `ml_playground` repository! Here, I explore various concepts, techniques, and experiments related to machine learning, data science, and AI. This is a personal sandbox where I try out ideas, document my learning process, and share code snippets that I find interesting or fun.
+Welcome to my **ML Playground**! This repository is where I explore various facets of machine learning, from foundational concepts to more advanced techniques, with an emphasis on practical, hands-on experimentation. By revisiting established approaches and experimenting with diverse datasets, I continuously refine both my theoretical understanding and my coding proficiency.
 
-## What You'll Find Here
+## Purpose & Goals
 
-- **Jupyter Notebooks**: 
-  - Experiments with cost functions in linear regression.
-  - Visualizations that help deepen understanding of model parameters.
-  - Future notebooks covering data preprocessing, model evaluation, neural networks, and more.
+- **Deepening Expertise in NLP and ML:**  
+  My ultimate aim is to develop a stronger background in **Natural Language Processing (NLP)** and machine learning. This includes solidifying theoretical and mathematical foundations, while gaining hands-on experience with a variety of models, tools, and frameworks.
 
-## Learning Resources
+- **Discovery & Skill-Building:**  
+  Not every project here is groundbreaking or unique. Instead, I frequently revisit well-known methods and datasets as a form of deliberate practice. This ensures steady improvement in understanding core principles, implementing scalable solutions, and interpreting model behaviors.
 
-I'm currently taking a Machine Learning Specialization course, and I’m also reading the book **"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"** by Aurélien Géron (O’Reilly Media). These resources guide my learning and inspire the experiments you see in this repository.
+## Repository Structure
 
-## Purpose
+- **Cost_Function_Visualization/**
+  - `cost_function_visualization.ipynb`: Visual demonstrations of cost functions in linear regression, offering intuitive insights into gradient descent and parameter optimization.
 
-The main goal of this repository is to document my learning progress, experiment with different ML techniques, and share any insightful findings. It serves as a personal logbook, showcasing how my approach and understanding evolve over time.
+- **MultiVariable_Linear_Regression_Life_Expectancy/**
+  - `notebook.ipynb`: A lecture-style notebook implementing multivariate linear regression from scratch. Using datasets from [Kaggle](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who/data) (and WHO/UN sources), this project showcases feature scaling, gradient descent optimization, and model evaluation metrics.
 
-Feel free to explore, learn with me, and adapt any of the code or ideas here for your own projects.
+## Learning Resources & Inspiration
+
+I draw knowledge and inspiration from:
+- **[Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)** on Coursera:  
+  Providing structured, university-level coursework in ML fundamentals.
+- **[Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://a.co/d/9aHzeX1)** by Aurélien Géron:  
+  A practical guide to building modern ML and deep learning systems.
+- **[Kaggle](https://www.kaggle.com/mustafaaaktas) Datasets & Competitions:**  
+  A go-to resource for acquiring diverse, real-world datasets that sharpen data wrangling, modeling, and inference skills.
+
+## How You Can Use This Repository
+
+**Clone & Explore:**
+1. Ensure you have [Git](https://git-scm.com/) and [Python](https://www.python.org/downloads/) installed.
+2. Clone this repository locally:
+   ```bash
+   git clone https://github.com/mustafaaaktas/ml_playground.git
+   cd ml_playground
